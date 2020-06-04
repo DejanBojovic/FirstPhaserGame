@@ -7,7 +7,7 @@ preload - which loads assets into the scene
 
 create - which initializes the scene, and positions the assets
 
-update - which is called the last(but is acutally called 60 times per second after previous two functions are called)
+update - which is called last(but is acutally called 60 times per second after previous two functions are called)
 and handles the game's logic
   
 hit - is function that takes care of collision between player and the coin
